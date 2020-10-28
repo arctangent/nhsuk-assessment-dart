@@ -1,4 +1,0 @@
-{
-    "image": "google/dart",
-    "forwardPorts": [3000]
-}
